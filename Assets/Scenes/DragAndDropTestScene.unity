@@ -205,8 +205,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f859658211c44d440838f4113a4e4914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentToReturnTo: {fileID: 0}
-  placeholderParent: {fileID: 0}
+  placeholderParent: {fileID: 796481923}
 --- !u!114 &314583530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -512,8 +511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f859658211c44d440838f4113a4e4914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentToReturnTo: {fileID: 0}
-  placeholderParent: {fileID: 0}
+  placeholderParent: {fileID: 796481923}
 --- !u!114 &626103553
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -814,8 +812,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f859658211c44d440838f4113a4e4914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentToReturnTo: {fileID: 0}
-  placeholderParent: {fileID: 0}
+  placeholderParent: {fileID: 796481923}
 --- !u!114 &1070828503
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -937,8 +934,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f859658211c44d440838f4113a4e4914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentToReturnTo: {fileID: 0}
-  placeholderParent: {fileID: 0}
+  placeholderParent: {fileID: 796481923}
 --- !u!114 &1088714964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -987,7 +983,6 @@ GameObject:
   - component: {fileID: 1379834537}
   - component: {fileID: 1379834539}
   - component: {fileID: 1379834538}
-  - component: {fileID: 1379834541}
   - component: {fileID: 1379834540}
   m_Layer: 5
   m_Name: Hotels
@@ -1081,18 +1076,6 @@ MonoBehaviour:
   m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
---- !u!114 &1379834541
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1379834536}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9f6d6d994455d43419bfb548a6594e88, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1779708559
 GameObject:
   m_ObjectHideFlags: 0
@@ -1177,8 +1160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f859658211c44d440838f4113a4e4914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentToReturnTo: {fileID: 0}
-  placeholderParent: {fileID: 0}
+  placeholderParent: {fileID: 796481923}
 --- !u!114 &1779708564
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1227,7 +1209,6 @@ GameObject:
   - component: {fileID: 1779940242}
   - component: {fileID: 1779940246}
   - component: {fileID: 1779940245}
-  - component: {fileID: 1779940244}
   - component: {fileID: 1779940243}
   m_Layer: 5
   m_Name: Transfer
@@ -1284,18 +1265,6 @@ MonoBehaviour:
   m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
---- !u!114 &1779940244
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1779940241}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9f6d6d994455d43419bfb548a6594e88, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1779940245
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1417,8 +1386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f859658211c44d440838f4113a4e4914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentToReturnTo: {fileID: 0}
-  placeholderParent: {fileID: 0}
+  placeholderParent: {fileID: 796481923}
 --- !u!114 &1847287749
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1540,8 +1508,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f859658211c44d440838f4113a4e4914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentToReturnTo: {fileID: 0}
-  placeholderParent: {fileID: 0}
+  placeholderParent: {fileID: 796481923}
 --- !u!114 &1932817301
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1700,5 +1667,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f859658211c44d440838f4113a4e4914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentToReturnTo: {fileID: 0}
-  placeholderParent: {fileID: 0}
+  placeholderParent: {fileID: 796481923}
