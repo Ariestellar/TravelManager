@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ce57ad56743d81468ef7ec712e80b9c, type: 3}
+  m_Name: Athens
+  m_EditorClassIdentifier: 
+  _name: Athens
+  _levelBeaches: 51
+  _levelCulture: 43
+  _levelActivities: 68
+  _costAir: 250
+  _costRailway: 120
+  _costAutomobile: 80
+  _timeAir: 4
+  _timeRailway: 48
+  _timeAutomobile: 24
+  _coustOneDayHotelfiveStars: 120
+  _coustOneDayHotelfourStars: 100
+  _coustOneDayHotelthreeStars: 75
+  _coustOneDayHoteltwoStars: 50
+  _coustOneDayHoteloneStar: 20
